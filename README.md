@@ -26,8 +26,8 @@ if __name__ == "__main__":
 
 - **Programming languages:** Python
 - **Web development:**
-  - Flask (HTML, CSS, JS)
-  - SQLAlchemy (ORM)
+  - Flask
+  - SQLAlchemy
 - **Creative Tools:**
   - SuperCollider (Sound and Music Programming)
   - TouchDesigner (Visual Programming for Real-Time Interaction)

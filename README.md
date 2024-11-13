@@ -1,9 +1,7 @@
 
 # Hi, I'm Christian!
 
-I am an enthusiast of Python and creative coding, passionate about exploring the intersections between technology and art. 🎨✨ Through programming, I aim to transform abstract ideas into interactive and visual experiences that ignite the imagination.
-
-In addition to my programming endeavors, I engage in sound and visual experimentation using tools like **SuperCollider** and **TouchDesigner**. These platforms allow me to create unique soundscapes and visuals, merging music and digital art into one cohesive space. My goal is to use code not just as a tool but as a medium for self-expression and artistic innovation. 🎶💻
+I am an enthusiast of Python and creative coding, passionate about exploring the intersections between technology and art. 🎨✨ Through programming, I aim to transform abstract ideas into interactive and visual experiences that ignite the imagination. 🎶💻
 
 ```python
 import asyncio
@@ -15,8 +13,7 @@ async def print_profile():
           My background in the arts has given me creativity and ingenuity, skills that I apply \
           across various fields of knowledge, including communication and leadership \
           abilities to manage projects and teams. 🤝\n"
-          "As a developer, I have a deep proficiency in Python, specializing in backend development \
-           with Flask and SQLAlchemy, as well as artificial intelligence applications using NLTK and Keras. 💻")
+          "As a developer, I have a deep proficiency in Python, specializing in backend and AI development 💻")
 
 if __name__ == "__main__":
     asyncio.run(print_profile())
@@ -24,14 +21,13 @@ if __name__ == "__main__":
 
 ## Skillset
 
-- **Programming languages:** Python
+- **Programming languages:**
+  - Python 
+  - SuperCollider
 - **Web development:**
   - Flask
   - SQLAlchemy
-- **Creative Tools:**
-  - SuperCollider (Sound and Music Programming)
-  - TouchDesigner (Visual Programming for Real-Time Interaction)
 - **Other:**
   - Algorithmic Composition
   - Generative Art
-  - NLTK/Keras (Artificial Intelligence)
+  - Artificial Intelligence

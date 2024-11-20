@@ -24,7 +24,6 @@ if __name__ == "__main__":
   - SuperCollider
 - **Web development:**
   - Flask
-  - SQLAlchemy
 - **Other:**
   - Algorithmic Composition
   - Generative Art

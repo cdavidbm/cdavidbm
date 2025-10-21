@@ -1,15 +1,9 @@
-# Hi, I'm Christian!
+# Developer & Instructor
 
-I am an enthusiast of Python and creative coding, passionate about exploring the intersections between technology and art. Through programming, I aim to transform abstract ideas into interactive and visual experiences that ignite the imagination. 
+Python developer and programming instructor. I work with backend technologies and enjoy exploring creative coding through generative art and algorithmic music composition.
+My background in arts influences my approach to problem-solving, combining technical skills with creative thinking.
 
-I am a programming teacher with a strong interest in art and philosophy. I'm currently exploring algorithmic music composition techniques and generative art.
-
-My background in the arts has given me creativity and ingenuity, skills that I apply across various fields of knowledge, including communication and leadership abilities to manage projects and teams.
-
-As a developer, I have a deep proficiency in Python, specializing in backend and AI development.
-
-
-## Skillset
-  - Python (Flask, FastAPI)
-  - Artificial Intelligence (FastMCP, ADK)
-  - SuperCollider
+### Technical Skills
+- Development: Python, Flask, FastAPI
+- AI & Tools: FastMCP, ADK
+- Creative: SuperCollider

@@ -11,5 +11,5 @@ As a developer, I have a deep proficiency in Python, specializing in backend and
 
 ## Skillset
   - Python (Flask, FastAPI)
-  - Artificial Intelligence (MCP, ADK)
+  - Artificial Intelligence (FastMCP, ADK)
   - SuperCollider

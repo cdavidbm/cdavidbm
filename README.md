@@ -10,13 +10,6 @@ As a developer, I have a deep proficiency in Python, specializing in backend and
 
 
 ## Skillset
-
-- **Programming languages:**
-  - Python 
+  - Python (Flask, FastAPI)
+  - Artificial Intelligence (MCP, ADK)
   - SuperCollider
-- **Web development:**
-  - Flask
-- **Other:**
-  - Algorithmic Composition
-  - Generative Art
-  - Artificial Intelligence

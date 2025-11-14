@@ -2,6 +2,8 @@ Python developer and programming instructor. I work with backend technologies an
 My background in arts influences my approach to problem-solving, combining technical skills with creative thinking.
 
 ### Technical Skills
-- Development: Python, Flask, FastAPI
+- Development: Python
+- Backend: FastAPI, Flask
+- Cloud & Deployment: Google Cloud
 - AI & Tools: FastMCP, ADK
-- Creative: SuperCollider
+- Creative: SuperCollider, FoxDot

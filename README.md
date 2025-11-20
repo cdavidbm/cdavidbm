@@ -3,7 +3,7 @@ My background in arts influences my approach to problem-solving, combining techn
 
 ### Technical Skills
 - Development: Python
-- Backend: FastAPI, Flask
+- Backend: FastAPI, Flask, Django
 - Cloud & Deployment: Google Cloud
-- AI & Tools: FastMCP, ADK
+- AI & Tools: n8n
 - Creative: SuperCollider, FoxDot
